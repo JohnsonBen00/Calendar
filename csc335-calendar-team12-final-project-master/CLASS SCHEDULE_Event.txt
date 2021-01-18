@@ -1,0 +1,1 @@
+CSC 345, 1, 5, 12, 30, 1, 45, red, Chavez, Exam Day
